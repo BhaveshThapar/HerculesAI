@@ -15,7 +15,7 @@ services:
 
   # Frontend Service
   - type: static
-    name: herculesai-frontend
+    name: herculesai
     buildCommand: npm install && npm run build
     staticPublishPath: ./dist
     envVars:

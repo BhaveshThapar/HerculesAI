@@ -106,7 +106,7 @@ This project is configured for deployment on Render with both frontend and backe
 1. **Create a new Static Site** on Render
 2. **Connect your GitHub repository**
 3. **Configure the service:**
-   - **Name:** `herculesai-frontend`
+   - **Name:** `herculesai`
    - **Build Command:** `npm install && npm run build`
    - **Publish Directory:** `dist`
    - **Root Directory:** Leave empty (deploy from root)

@@ -13,7 +13,7 @@ app = Flask(__name__)
 # Configure CORS for production
 CORS(
     app,
-    origins=["https://herculesai-frontend.onrender.com", "http://localhost:5173"],
+    origins=["https://herculesai.onrender.com", "http://localhost:5173"],
     methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allow_headers=["Content-Type", "Authorization"],
     supports_credentials=True
@@ -50,7 +50,7 @@ def get_today_day_of_week():
 
 @app.route('/api/recommend/meals', methods=['POST', 'OPTIONS'])
 @cross_origin(
-    origins=["https://herculesai-frontend.onrender.com", "http://localhost:5173"],
+    origins=["https://herculesai.onrender.com", "http://localhost:5173"],
     methods=["POST", "OPTIONS"],
     allow_headers=["Content-Type", "Authorization"],
     supports_credentials=True
@@ -73,7 +73,7 @@ def recommend_meals():
 
 @app.route('/api/recommend/workouts', methods=['POST', 'OPTIONS'])
 @cross_origin(
-    origins=["https://herculesai-frontend.onrender.com", "http://localhost:5173"],
+    origins=["https://herculesai.onrender.com", "http://localhost:5173"],
     methods=["POST", "OPTIONS"],
     allow_headers=["Content-Type", "Authorization"],
     supports_credentials=True
@@ -142,7 +142,7 @@ def recommend_workouts():
 
 @app.route('/api/health', methods=['GET'])
 @cross_origin(
-    origins=["https://herculesai-frontend.onrender.com", "http://localhost:5173"],
+    origins=["https://herculesai.onrender.com", "http://localhost:5173"],
     methods=["GET"],
     allow_headers=["Content-Type", "Authorization"],
     supports_credentials=True
@@ -152,7 +152,7 @@ def health():
 
 @app.route('/api/ml/recommend-meals', methods=['POST', 'OPTIONS'])
 @cross_origin(
-    origins=["https://herculesai-frontend.onrender.com", "http://localhost:5173"],
+    origins=["https://herculesai.onrender.com", "http://localhost:5173"],
     methods=["POST", "OPTIONS"],
     allow_headers=["Content-Type", "Authorization"],
     supports_credentials=True
@@ -179,7 +179,7 @@ def ml_recommend_meals():
 
 @app.route('/api/ml/recommend-exercises', methods=['POST', 'OPTIONS'])
 @cross_origin(
-    origins=["https://herculesai-frontend.onrender.com", "http://localhost:5173"],
+    origins=["https://herculesai.onrender.com", "http://localhost:5173"],
     methods=["POST", "OPTIONS"],
     allow_headers=["Content-Type", "Authorization"],
     supports_credentials=True
@@ -205,7 +205,7 @@ def ml_recommend_exercises():
 
 @app.route('/api/ml/generate-workout', methods=['POST', 'OPTIONS'])
 @cross_origin(
-    origins=["https://herculesai-frontend.onrender.com", "http://localhost:5173"],
+    origins=["https://herculesai.onrender.com", "http://localhost:5173"],
     methods=["POST", "OPTIONS"],
     allow_headers=["Content-Type", "Authorization"],
     supports_credentials=True
@@ -225,7 +225,7 @@ def ml_generate_workout():
 
 @app.route('/api/ml/similar-users', methods=['POST', 'OPTIONS'])
 @cross_origin(
-    origins=["https://herculesai-frontend.onrender.com", "http://localhost:5173"],
+    origins=["https://herculesai.onrender.com", "http://localhost:5173"],
     methods=["POST", "OPTIONS"],
     allow_headers=["Content-Type", "Authorization"],
     supports_credentials=True
@@ -246,7 +246,7 @@ def ml_similar_users():
 
 @app.route('/api/ml/progress-recommendations', methods=['POST', 'OPTIONS'])
 @cross_origin(
-    origins=["https://herculesai-frontend.onrender.com", "http://localhost:5173"],
+    origins=["https://herculesai.onrender.com", "http://localhost:5173"],
     methods=["POST", "OPTIONS"],
     allow_headers=["Content-Type", "Authorization"],
     supports_credentials=True
