@@ -218,7 +218,7 @@ def ml_generate_workout():
     user_profile = req_json.get('user_profile', {})
     
     try:
-        workout_plan = ml_system.generate_workout_plan(user_profile)
+        workout_plan = ml_system.get_personalized_workout_plan(user_profile)
         return jsonify({'workout_plan': convert_to_python_types(workout_plan)})
     except Exception as e:
         return jsonify({'error': str(e)}), 500
@@ -239,7 +239,7 @@ def ml_similar_users():
     n_recommendations = req_json.get('n_recommendations', 5)
     
     try:
-        similar_users = ml_system.find_similar_users(user_profile, n_recommendations)
+        similar_users = ml_system.get_similar_users_recommendations(user_profile, n_recommendations)
         return jsonify({'similar_users': convert_to_python_types(similar_users)})
     except Exception as e:
         return jsonify({'error': str(e)}), 500
@@ -260,7 +260,7 @@ def ml_progress_recommendations():
     progress_data = req_json.get('progress_data', {})
     
     try:
-        recommendations = ml_system.get_progress_recommendations(user_profile, progress_data)
+        recommendations = ml_system.get_progress_based_recommendations(user_profile.get('user_id', 1), n_recommendations=5)
         return jsonify({'recommendations': convert_to_python_types(recommendations)})
     except Exception as e:
         return jsonify({'error': str(e)}), 500
