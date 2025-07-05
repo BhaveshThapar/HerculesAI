@@ -59,7 +59,7 @@ A comprehensive fitness tracking and AI recommendation platform built with React
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/BhaveshThapar/HerculesAI
 cd HerculesAI
 ```
 
