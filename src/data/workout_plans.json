@@ -1,0 +1,769 @@
+[
+  {
+    "plan_id": 1,
+    "plan_name": "Beginner Strength",
+    "day_of_week": 1,
+    "exercise_id": 101,
+    "target_sets": 3,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 2,
+    "plan_name": "Beginner Strength",
+    "day_of_week": 1,
+    "exercise_id": 102,
+    "target_sets": 3,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 3,
+    "plan_name": "Beginner Strength",
+    "day_of_week": 1,
+    "exercise_id": 108,
+    "target_sets": 3,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 4,
+    "plan_name": "Beginner Strength",
+    "day_of_week": 1,
+    "exercise_id": 110,
+    "target_sets": 3,
+    "target_reps": 30
+  },
+  {
+    "plan_id": 5,
+    "plan_name": "Beginner Strength",
+    "day_of_week": 2,
+    "exercise_id": 106,
+    "target_sets": 3,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 6,
+    "plan_name": "Beginner Strength",
+    "day_of_week": 2,
+    "exercise_id": 107,
+    "target_sets": 3,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 7,
+    "plan_name": "Beginner Strength",
+    "day_of_week": 2,
+    "exercise_id": 113,
+    "target_sets": 3,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 8,
+    "plan_name": "Beginner Strength",
+    "day_of_week": 2,
+    "exercise_id": 114,
+    "target_sets": 3,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 9,
+    "plan_name": "Beginner Strength",
+    "day_of_week": 3,
+    "exercise_id": 103,
+    "target_sets": 3,
+    "target_reps": 5
+  },
+  {
+    "plan_id": 10,
+    "plan_name": "Beginner Strength",
+    "day_of_week": 3,
+    "exercise_id": 104,
+    "target_sets": 3,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 11,
+    "plan_name": "Beginner Strength",
+    "day_of_week": 3,
+    "exercise_id": 111,
+    "target_sets": 3,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 12,
+    "plan_name": "Beginner Strength",
+    "day_of_week": 3,
+    "exercise_id": 115,
+    "target_sets": 3,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 13,
+    "plan_name": "Intermediate Strength",
+    "day_of_week": 1,
+    "exercise_id": 101,
+    "target_sets": 4,
+    "target_reps": 6
+  },
+  {
+    "plan_id": 14,
+    "plan_name": "Intermediate Strength",
+    "day_of_week": 1,
+    "exercise_id": 102,
+    "target_sets": 4,
+    "target_reps": 6
+  },
+  {
+    "plan_id": 15,
+    "plan_name": "Intermediate Strength",
+    "day_of_week": 1,
+    "exercise_id": 170,
+    "target_sets": 3,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 16,
+    "plan_name": "Intermediate Strength",
+    "day_of_week": 1,
+    "exercise_id": 122,
+    "target_sets": 3,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 17,
+    "plan_name": "Intermediate Strength",
+    "day_of_week": 2,
+    "exercise_id": 103,
+    "target_sets": 4,
+    "target_reps": 5
+  },
+  {
+    "plan_id": 18,
+    "plan_name": "Intermediate Strength",
+    "day_of_week": 2,
+    "exercise_id": 104,
+    "target_sets": 4,
+    "target_reps": 6
+  },
+  {
+    "plan_id": 19,
+    "plan_name": "Intermediate Strength",
+    "day_of_week": 2,
+    "exercise_id": 105,
+    "target_sets": 3,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 20,
+    "plan_name": "Intermediate Strength",
+    "day_of_week": 2,
+    "exercise_id": 128,
+    "target_sets": 3,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 21,
+    "plan_name": "Intermediate Strength",
+    "day_of_week": 3,
+    "exercise_id": 126,
+    "target_sets": 4,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 22,
+    "plan_name": "Intermediate Strength",
+    "day_of_week": 3,
+    "exercise_id": 127,
+    "target_sets": 3,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 23,
+    "plan_name": "Intermediate Strength",
+    "day_of_week": 3,
+    "exercise_id": 182,
+    "target_sets": 3,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 24,
+    "plan_name": "Intermediate Strength",
+    "day_of_week": 3,
+    "exercise_id": 130,
+    "target_sets": 3,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 25,
+    "plan_name": "Advanced Strength",
+    "day_of_week": 1,
+    "exercise_id": 101,
+    "target_sets": 5,
+    "target_reps": 5
+  },
+  {
+    "plan_id": 26,
+    "plan_name": "Advanced Strength",
+    "day_of_week": 1,
+    "exercise_id": 102,
+    "target_sets": 5,
+    "target_reps": 5
+  },
+  {
+    "plan_id": 27,
+    "plan_name": "Advanced Strength",
+    "day_of_week": 1,
+    "exercise_id": 170,
+    "target_sets": 4,
+    "target_reps": 6
+  },
+  {
+    "plan_id": 28,
+    "plan_name": "Advanced Strength",
+    "day_of_week": 1,
+    "exercise_id": 122,
+    "target_sets": 4,
+    "target_reps": 6
+  },
+  {
+    "plan_id": 29,
+    "plan_name": "Advanced Strength",
+    "day_of_week": 2,
+    "exercise_id": 103,
+    "target_sets": 5,
+    "target_reps": 3
+  },
+  {
+    "plan_id": 30,
+    "plan_name": "Advanced Strength",
+    "day_of_week": 2,
+    "exercise_id": 104,
+    "target_sets": 5,
+    "target_reps": 5
+  },
+  {
+    "plan_id": 31,
+    "plan_name": "Advanced Strength",
+    "day_of_week": 2,
+    "exercise_id": 105,
+    "target_sets": 4,
+    "target_reps": 6
+  },
+  {
+    "plan_id": 32,
+    "plan_name": "Advanced Strength",
+    "day_of_week": 2,
+    "exercise_id": 128,
+    "target_sets": 4,
+    "target_reps": 6
+  },
+  {
+    "plan_id": 33,
+    "plan_name": "Advanced Strength",
+    "day_of_week": 3,
+    "exercise_id": 142,
+    "target_sets": 4,
+    "target_reps": 6
+  },
+  {
+    "plan_id": 34,
+    "plan_name": "Advanced Strength",
+    "day_of_week": 3,
+    "exercise_id": 155,
+    "target_sets": 4,
+    "target_reps": 5
+  },
+  {
+    "plan_id": 35,
+    "plan_name": "Advanced Strength",
+    "day_of_week": 3,
+    "exercise_id": 182,
+    "target_sets": 4,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 36,
+    "plan_name": "Advanced Strength",
+    "day_of_week": 3,
+    "exercise_id": 130,
+    "target_sets": 4,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 37,
+    "plan_name": "Beginner Cut",
+    "day_of_week": 1,
+    "exercise_id": 109,
+    "target_sets": 3,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 38,
+    "plan_name": "Beginner Cut",
+    "day_of_week": 1,
+    "exercise_id": 134,
+    "target_sets": 3,
+    "target_reps": 20
+  },
+  {
+    "plan_id": 39,
+    "plan_name": "Beginner Cut",
+    "day_of_week": 1,
+    "exercise_id": 110,
+    "target_sets": 3,
+    "target_reps": 45
+  },
+  {
+    "plan_id": 40,
+    "plan_name": "Beginner Cut",
+    "day_of_week": 1,
+    "exercise_id": 140,
+    "target_sets": 3,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 41,
+    "plan_name": "Beginner Cut",
+    "day_of_week": 2,
+    "exercise_id": 106,
+    "target_sets": 3,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 42,
+    "plan_name": "Beginner Cut",
+    "day_of_week": 2,
+    "exercise_id": 107,
+    "target_sets": 3,
+    "target_reps": 20
+  },
+  {
+    "plan_id": 43,
+    "plan_name": "Beginner Cut",
+    "day_of_week": 2,
+    "exercise_id": 113,
+    "target_sets": 3,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 44,
+    "plan_name": "Beginner Cut",
+    "day_of_week": 2,
+    "exercise_id": 114,
+    "target_sets": 3,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 45,
+    "plan_name": "Beginner Cut",
+    "day_of_week": 3,
+    "exercise_id": 108,
+    "target_sets": 3,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 46,
+    "plan_name": "Beginner Cut",
+    "day_of_week": 3,
+    "exercise_id": 111,
+    "target_sets": 3,
+    "target_reps": 20
+  },
+  {
+    "plan_id": 47,
+    "plan_name": "Beginner Cut",
+    "day_of_week": 3,
+    "exercise_id": 115,
+    "target_sets": 3,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 48,
+    "plan_name": "Beginner Cut",
+    "day_of_week": 3,
+    "exercise_id": 139,
+    "target_sets": 3,
+    "target_reps": 30
+  },
+  {
+    "plan_id": 49,
+    "plan_name": "Intermediate Cut",
+    "day_of_week": 1,
+    "exercise_id": 101,
+    "target_sets": 4,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 50,
+    "plan_name": "Intermediate Cut",
+    "day_of_week": 1,
+    "exercise_id": 102,
+    "target_sets": 4,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 51,
+    "plan_name": "Intermediate Cut",
+    "day_of_week": 1,
+    "exercise_id": 170,
+    "target_sets": 3,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 52,
+    "plan_name": "Intermediate Cut",
+    "day_of_week": 1,
+    "exercise_id": 140,
+    "target_sets": 4,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 53,
+    "plan_name": "Intermediate Cut",
+    "day_of_week": 2,
+    "exercise_id": 103,
+    "target_sets": 4,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 54,
+    "plan_name": "Intermediate Cut",
+    "day_of_week": 2,
+    "exercise_id": 104,
+    "target_sets": 4,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 55,
+    "plan_name": "Intermediate Cut",
+    "day_of_week": 2,
+    "exercise_id": 105,
+    "target_sets": 3,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 56,
+    "plan_name": "Intermediate Cut",
+    "day_of_week": 2,
+    "exercise_id": 163,
+    "target_sets": 3,
+    "target_reps": 30
+  },
+  {
+    "plan_id": 57,
+    "plan_name": "Intermediate Cut",
+    "day_of_week": 3,
+    "exercise_id": 126,
+    "target_sets": 4,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 58,
+    "plan_name": "Intermediate Cut",
+    "day_of_week": 3,
+    "exercise_id": 127,
+    "target_sets": 3,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 59,
+    "plan_name": "Intermediate Cut",
+    "day_of_week": 3,
+    "exercise_id": 182,
+    "target_sets": 3,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 60,
+    "plan_name": "Intermediate Cut",
+    "day_of_week": 3,
+    "exercise_id": 130,
+    "target_sets": 3,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 61,
+    "plan_name": "Advanced Cut",
+    "day_of_week": 1,
+    "exercise_id": 101,
+    "target_sets": 5,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 62,
+    "plan_name": "Advanced Cut",
+    "day_of_week": 1,
+    "exercise_id": 102,
+    "target_sets": 5,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 63,
+    "plan_name": "Advanced Cut",
+    "day_of_week": 1,
+    "exercise_id": 170,
+    "target_sets": 4,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 64,
+    "plan_name": "Advanced Cut",
+    "day_of_week": 1,
+    "exercise_id": 140,
+    "target_sets": 5,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 65,
+    "plan_name": "Advanced Cut",
+    "day_of_week": 2,
+    "exercise_id": 103,
+    "target_sets": 5,
+    "target_reps": 6
+  },
+  {
+    "plan_id": 66,
+    "plan_name": "Advanced Cut",
+    "day_of_week": 2,
+    "exercise_id": 104,
+    "target_sets": 5,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 67,
+    "plan_name": "Advanced Cut",
+    "day_of_week": 2,
+    "exercise_id": 105,
+    "target_sets": 4,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 68,
+    "plan_name": "Advanced Cut",
+    "day_of_week": 2,
+    "exercise_id": 163,
+    "target_sets": 4,
+    "target_reps": 45
+  },
+  {
+    "plan_id": 69,
+    "plan_name": "Advanced Cut",
+    "day_of_week": 3,
+    "exercise_id": 142,
+    "target_sets": 4,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 70,
+    "plan_name": "Advanced Cut",
+    "day_of_week": 3,
+    "exercise_id": 155,
+    "target_sets": 4,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 71,
+    "plan_name": "Advanced Cut",
+    "day_of_week": 3,
+    "exercise_id": 182,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 72,
+    "plan_name": "Advanced Cut",
+    "day_of_week": 3,
+    "exercise_id": 130,
+    "target_sets": 4,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 73,
+    "plan_name": "Bodyweight Only",
+    "day_of_week": 1,
+    "exercise_id": 109,
+    "target_sets": 4,
+    "target_reps": 20
+  },
+  {
+    "plan_id": 74,
+    "plan_name": "Bodyweight Only",
+    "day_of_week": 1,
+    "exercise_id": 134,
+    "target_sets": 4,
+    "target_reps": 25
+  },
+  {
+    "plan_id": 75,
+    "plan_name": "Bodyweight Only",
+    "day_of_week": 1,
+    "exercise_id": 110,
+    "target_sets": 4,
+    "target_reps": 60
+  },
+  {
+    "plan_id": 76,
+    "plan_name": "Bodyweight Only",
+    "day_of_week": 1,
+    "exercise_id": 135,
+    "target_sets": 3,
+    "target_reps": 20
+  },
+  {
+    "plan_id": 77,
+    "plan_name": "Bodyweight Only",
+    "day_of_week": 2,
+    "exercise_id": 105,
+    "target_sets": 4,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 78,
+    "plan_name": "Bodyweight Only",
+    "day_of_week": 2,
+    "exercise_id": 125,
+    "target_sets": 4,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 79,
+    "plan_name": "Bodyweight Only",
+    "day_of_week": 2,
+    "exercise_id": 122,
+    "target_sets": 4,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 80,
+    "plan_name": "Bodyweight Only",
+    "day_of_week": 2,
+    "exercise_id": 123,
+    "target_sets": 3,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 81,
+    "plan_name": "Bodyweight Only",
+    "day_of_week": 3,
+    "exercise_id": 112,
+    "target_sets": 3,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 82,
+    "plan_name": "Bodyweight Only",
+    "day_of_week": 3,
+    "exercise_id": 111,
+    "target_sets": 4,
+    "target_reps": 25
+  },
+  {
+    "plan_id": 83,
+    "plan_name": "Bodyweight Only",
+    "day_of_week": 3,
+    "exercise_id": 146,
+    "target_sets": 4,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 84,
+    "plan_name": "Bodyweight Only",
+    "day_of_week": 3,
+    "exercise_id": 183,
+    "target_sets": 4,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 85,
+    "plan_name": "Full Gym Access",
+    "day_of_week": 1,
+    "exercise_id": 101,
+    "target_sets": 4,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 86,
+    "plan_name": "Full Gym Access",
+    "day_of_week": 1,
+    "exercise_id": 102,
+    "target_sets": 4,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 87,
+    "plan_name": "Full Gym Access",
+    "day_of_week": 1,
+    "exercise_id": 170,
+    "target_sets": 3,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 88,
+    "plan_name": "Full Gym Access",
+    "day_of_week": 1,
+    "exercise_id": 120,
+    "target_sets": 3,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 89,
+    "plan_name": "Full Gym Access",
+    "day_of_week": 2,
+    "exercise_id": 103,
+    "target_sets": 4,
+    "target_reps": 6
+  },
+  {
+    "plan_id": 90,
+    "plan_name": "Full Gym Access",
+    "day_of_week": 2,
+    "exercise_id": 104,
+    "target_sets": 4,
+    "target_reps": 8
+  },
+  {
+    "plan_id": 91,
+    "plan_name": "Full Gym Access",
+    "day_of_week": 2,
+    "exercise_id": 117,
+    "target_sets": 3,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 92,
+    "plan_name": "Full Gym Access",
+    "day_of_week": 2,
+    "exercise_id": 121,
+    "target_sets": 3,
+    "target_reps": 15
+  },
+  {
+    "plan_id": 93,
+    "plan_name": "Full Gym Access",
+    "day_of_week": 3,
+    "exercise_id": 116,
+    "target_sets": 4,
+    "target_reps": 10
+  },
+  {
+    "plan_id": 94,
+    "plan_name": "Full Gym Access",
+    "day_of_week": 3,
+    "exercise_id": 118,
+    "target_sets": 3,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 95,
+    "plan_name": "Full Gym Access",
+    "day_of_week": 3,
+    "exercise_id": 119,
+    "target_sets": 3,
+    "target_reps": 12
+  },
+  {
+    "plan_id": 96,
+    "plan_name": "Full Gym Access",
+    "day_of_week": 3,
+    "exercise_id": 132,
+    "target_sets": 4,
+    "target_reps": 15
+  }
+] 

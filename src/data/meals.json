@@ -1,0 +1,502 @@
+[
+  {
+    "meal_id": 501,
+    "meal_name": "Scrambled Eggs with Spinach & Toast",
+    "meal_type": "Breakfast",
+    "calories": 450,
+    "protein_g": 30,
+    "carbs_g": 35,
+    "fat_g": 20,
+    "dietary_tags": "vegetarian"
+  },
+  {
+    "meal_id": 502,
+    "meal_name": "Greek Yogurt with Berries & Nuts",
+    "meal_type": "Breakfast",
+    "calories": 400,
+    "protein_g": 25,
+    "carbs_g": 30,
+    "fat_g": 20,
+    "dietary_tags": "vegetarian;gluten_free"
+  },
+  {
+    "meal_id": 503,
+    "meal_name": "Chicken Breast with Quinoa & Broccoli",
+    "meal_type": "Lunch",
+    "calories": 550,
+    "protein_g": 50,
+    "carbs_g": 45,
+    "fat_g": 18,
+    "dietary_tags": "high_protein;gluten_free"
+  },
+  {
+    "meal_id": 504,
+    "meal_name": "Lentil Soup with Whole Wheat Bread",
+    "meal_type": "Lunch",
+    "calories": 480,
+    "protein_g": 22,
+    "carbs_g": 70,
+    "fat_g": 10,
+    "dietary_tags": "vegan"
+  },
+  {
+    "meal_id": 505,
+    "meal_name": "Salmon with Sweet Potato & Asparagus",
+    "meal_type": "Dinner",
+    "calories": 600,
+    "protein_g": 45,
+    "carbs_g": 50,
+    "fat_g": 22,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 506,
+    "meal_name": "Tofu Stir-fry with Brown Rice",
+    "meal_type": "Dinner",
+    "calories": 520,
+    "protein_g": 25,
+    "carbs_g": 65,
+    "fat_g": 16,
+    "dietary_tags": "vegan"
+  },
+  {
+    "meal_id": 507,
+    "meal_name": "Protein Shake (Whey)",
+    "meal_type": "Snack",
+    "calories": 250,
+    "protein_g": 30,
+    "carbs_g": 8,
+    "fat_g": 7,
+    "dietary_tags": "high_protein;vegetarian"
+  },
+  {
+    "meal_id": 508,
+    "meal_name": "Apple with Peanut Butter",
+    "meal_type": "Snack",
+    "calories": 300,
+    "protein_g": 8,
+    "carbs_g": 35,
+    "fat_g": 16,
+    "dietary_tags": "vegan;gluten_free"
+  },
+  {
+    "meal_id": 509,
+    "meal_name": "Oatmeal with Protein Powder",
+    "meal_type": "Breakfast",
+    "calories": 500,
+    "protein_g": 35,
+    "carbs_g": 70,
+    "fat_g": 9,
+    "dietary_tags": "vegetarian;high_protein"
+  },
+  {
+    "meal_id": 510,
+    "meal_name": "Tuna Salad Sandwich",
+    "meal_type": "Lunch",
+    "calories": 420,
+    "protein_g": 30,
+    "carbs_g": 40,
+    "fat_g": 15,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 511,
+    "meal_name": "Steak with Roasted Potatoes",
+    "meal_type": "Dinner",
+    "calories": 700,
+    "protein_g": 55,
+    "carbs_g": 40,
+    "fat_g": 35,
+    "dietary_tags": "high_protein"
+  },
+  {
+    "meal_id": 512,
+    "meal_name": "Cottage Cheese with Peaches",
+    "meal_type": "Snack",
+    "calories": 220,
+    "protein_g": 25,
+    "carbs_g": 18,
+    "fat_g": 5,
+    "dietary_tags": "vegetarian;gluten_free"
+  },
+  {
+    "meal_id": 513,
+    "meal_name": "Vegan Protein Shake (Pea)",
+    "meal_type": "Snack",
+    "calories": 280,
+    "protein_g": 30,
+    "carbs_g": 12,
+    "fat_g": 10,
+    "dietary_tags": "vegan;high_protein"
+  },
+  {
+    "meal_id": 514,
+    "meal_name": "Chickpea Curry with Rice",
+    "meal_type": "Dinner",
+    "calories": 580,
+    "protein_g": 20,
+    "carbs_g": 80,
+    "fat_g": 18,
+    "dietary_tags": "vegan"
+  },
+  {
+    "meal_id": 515,
+    "meal_name": "Ground Turkey Bowl with Black Beans",
+    "meal_type": "Lunch",
+    "calories": 530,
+    "protein_g": 45,
+    "carbs_g": 55,
+    "fat_g": 12,
+    "dietary_tags": "high_protein;gluten_free"
+  },
+  {
+    "meal_id": 516,
+    "meal_name": "Egg White Omelette with Veggies",
+    "meal_type": "Breakfast",
+    "calories": 350,
+    "protein_g": 30,
+    "carbs_g": 20,
+    "fat_g": 15,
+    "dietary_tags": "vegetarian"
+  },
+  {
+    "meal_id": 517,
+    "meal_name": "Hard Boiled Eggs (3)",
+    "meal_type": "Snack",
+    "calories": 210,
+    "protein_g": 18,
+    "carbs_g": 2,
+    "fat_g": 15,
+    "dietary_tags": "vegetarian;gluten_free"
+  },
+  {
+    "meal_id": 518,
+    "meal_name": "Beef Jerky",
+    "meal_type": "Snack",
+    "calories": 150,
+    "protein_g": 25,
+    "carbs_g": 5,
+    "fat_g": 3,
+    "dietary_tags": "high_protein"
+  },
+  {
+    "meal_id": 519,
+    "meal_name": "Cod with Lemon and Dill",
+    "meal_type": "Dinner",
+    "calories": 400,
+    "protein_g": 40,
+    "carbs_g": 5,
+    "fat_g": 22,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 520,
+    "meal_name": "Seitan \"Steak\" with Mashed Cauliflower",
+    "meal_type": "Dinner",
+    "calories": 480,
+    "protein_g": 40,
+    "carbs_g": 30,
+    "fat_g": 20,
+    "dietary_tags": "vegan;high_protein"
+  },
+  {
+    "meal_id": 521,
+    "meal_name": "Rice Cakes with Avocado",
+    "meal_type": "Snack",
+    "calories": 250,
+    "protein_g": 5,
+    "carbs_g": 30,
+    "fat_g": 12,
+    "dietary_tags": "vegan"
+  },
+  {
+    "meal_id": 522,
+    "meal_name": "Chicken Thighs with White Rice",
+    "meal_type": "Dinner",
+    "calories": 650,
+    "protein_g": 40,
+    "carbs_g": 60,
+    "fat_g": 28,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 523,
+    "meal_name": "Edamame",
+    "meal_type": "Snack",
+    "calories": 180,
+    "protein_g": 17,
+    "carbs_g": 15,
+    "fat_g": 8,
+    "dietary_tags": "vegan;gluten_free"
+  },
+  {
+    "meal_id": 524,
+    "meal_name": "Black Bean Burgers on Bun",
+    "meal_type": "Lunch",
+    "calories": 500,
+    "protein_g": 25,
+    "carbs_g": 60,
+    "fat_g": 18,
+    "dietary_tags": "vegan"
+  },
+  {
+    "meal_id": 525,
+    "meal_name": "Sardines in Olive Oil",
+    "meal_type": "Lunch",
+    "calories": 250,
+    "protein_g": 22,
+    "carbs_g": 0,
+    "fat_g": 18,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 526,
+    "meal_name": "Bagel with Cream Cheese",
+    "meal_type": "Breakfast",
+    "calories": 400,
+    "protein_g": 12,
+    "carbs_g": 60,
+    "fat_g": 12,
+    "dietary_tags": "vegetarian"
+  },
+  {
+    "meal_id": 527,
+    "meal_name": "Protein Pancakes",
+    "meal_type": "Breakfast",
+    "calories": 480,
+    "protein_g": 40,
+    "carbs_g": 50,
+    "fat_g": 14,
+    "dietary_tags": "vegetarian;high_protein"
+  },
+  {
+    "meal_id": 528,
+    "meal_name": "Shrimp Scampi with Zucchini Noodles",
+    "meal_type": "Dinner",
+    "calories": 450,
+    "protein_g": 35,
+    "carbs_g": 15,
+    "fat_g": 25,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 529,
+    "meal_name": "Caesar Salad with Grilled Chicken",
+    "meal_type": "Lunch",
+    "calories": 550,
+    "protein_g": 45,
+    "carbs_g": 10,
+    "fat_g": 38,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 530,
+    "meal_name": "Tempeh Bacon BLT",
+    "meal_type": "Lunch",
+    "calories": 480,
+    "protein_g": 28,
+    "carbs_g": 45,
+    "fat_g": 20,
+    "dietary_tags": "vegan"
+  },
+  {
+    "meal_id": 531,
+    "meal_name": "Chocolate Milk (Post-Workout)",
+    "meal_type": "Snack",
+    "calories": 350,
+    "protein_g": 15,
+    "carbs_g": 50,
+    "fat_g": 9,
+    "dietary_tags": "vegetarian"
+  },
+  {
+    "meal_id": 532,
+    "meal_name": "Turkey Breast Sandwich",
+    "meal_type": "Lunch",
+    "calories": 450,
+    "protein_g": 40,
+    "carbs_g": 45,
+    "fat_g": 12,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 533,
+    "meal_name": "Mahi-Mahi with Mango Salsa",
+    "meal_type": "Dinner",
+    "calories": 520,
+    "protein_g": 45,
+    "carbs_g": 40,
+    "fat_g": 18,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 534,
+    "meal_name": "Almonds (Handful)",
+    "meal_type": "Snack",
+    "calories": 200,
+    "protein_g": 7,
+    "carbs_g": 7,
+    "fat_g": 16,
+    "dietary_tags": "vegan;gluten_free"
+  },
+  {
+    "meal_id": 535,
+    "meal_name": "Tofu Scramble",
+    "meal_type": "Breakfast",
+    "calories": 400,
+    "protein_g": 28,
+    "carbs_g": 15,
+    "fat_g": 25,
+    "dietary_tags": "vegan"
+  },
+  {
+    "meal_id": 536,
+    "meal_name": "Kodiak Cakes",
+    "meal_type": "Breakfast",
+    "calories": 500,
+    "protein_g": 40,
+    "carbs_g": 60,
+    "fat_g": 10,
+    "dietary_tags": "vegetarian;high_protein"
+  },
+  {
+    "meal_id": 537,
+    "meal_name": "Shepherd's Pie (Beef)",
+    "meal_type": "Dinner",
+    "calories": 650,
+    "protein_g": 40,
+    "carbs_g": 50,
+    "fat_g": 30,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 538,
+    "meal_name": "Vegan Shepherd's Pie (Lentil)",
+    "meal_type": "Dinner",
+    "calories": 600,
+    "protein_g": 25,
+    "carbs_g": 70,
+    "fat_g": 22,
+    "dietary_tags": "vegan"
+  },
+  {
+    "meal_id": 539,
+    "meal_name": "Leftover Chicken Breast",
+    "meal_type": "Snack",
+    "calories": 200,
+    "protein_g": 40,
+    "carbs_g": 0,
+    "fat_g": 4,
+    "dietary_tags": "high_protein;gluten_free"
+  },
+  {
+    "meal_id": 540,
+    "meal_name": "Beef and Broccoli Stir-fry",
+    "meal_type": "Dinner",
+    "calories": 580,
+    "protein_g": 45,
+    "carbs_g": 40,
+    "fat_g": 25,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 541,
+    "meal_name": "Chicken Noodle Soup",
+    "meal_type": "Lunch",
+    "calories": 350,
+    "protein_g": 25,
+    "carbs_g": 40,
+    "fat_g": 10,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 542,
+    "meal_name": "Clif Bar",
+    "meal_type": "Snack",
+    "calories": 250,
+    "protein_g": 10,
+    "carbs_g": 45,
+    "fat_g": 5,
+    "dietary_tags": "vegetarian"
+  },
+  {
+    "meal_id": 543,
+    "meal_name": "RXBAR",
+    "meal_type": "Snack",
+    "calories": 210,
+    "protein_g": 12,
+    "carbs_g": 24,
+    "fat_g": 9,
+    "dietary_tags": "gluten_free"
+  },
+  {
+    "meal_id": 544,
+    "meal_name": "Avocado Toast with Egg",
+    "meal_type": "Breakfast",
+    "calories": 380,
+    "protein_g": 20,
+    "carbs_g": 25,
+    "fat_g": 20,
+    "dietary_tags": "vegetarian"
+  },
+  {
+    "meal_id": 545,
+    "meal_name": "Chicken Alfredo",
+    "meal_type": "Dinner",
+    "calories": 800,
+    "protein_g": 50,
+    "carbs_g": 70,
+    "fat_g": 35,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 546,
+    "meal_name": "Spaghetti with Meatballs",
+    "meal_type": "Dinner",
+    "calories": 750,
+    "protein_g": 40,
+    "carbs_g": 80,
+    "fat_g": 30,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 547,
+    "meal_name": "Veggie Omelette",
+    "meal_type": "Breakfast",
+    "calories": 400,
+    "protein_g": 25,
+    "carbs_g": 10,
+    "fat_g": 28,
+    "dietary_tags": "vegetarian"
+  },
+  {
+    "meal_id": 548,
+    "meal_name": "Chicken Shawarma Bowl",
+    "meal_type": "Lunch",
+    "calories": 600,
+    "protein_g": 45,
+    "carbs_g": 50,
+    "fat_g": 25,
+    "dietary_tags": ""
+  },
+  {
+    "meal_id": 549,
+    "meal_name": "Falafel Wrap",
+    "meal_type": "Lunch",
+    "calories": 550,
+    "protein_g": 20,
+    "carbs_g": 70,
+    "fat_g": 20,
+    "dietary_tags": "vegan"
+  },
+  {
+    "meal_id": 550,
+    "meal_name": "Sushi (Salmon Roll)",
+    "meal_type": "Dinner",
+    "calories": 450,
+    "protein_g": 20,
+    "carbs_g": 60,
+    "fat_g": 10,
+    "dietary_tags": ""
+  }
+] 

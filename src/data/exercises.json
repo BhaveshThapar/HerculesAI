@@ -1,0 +1,772 @@
+[
+  {
+    "exercise_id": 101,
+    "exercise_name": "Barbell Bench Press",
+    "body_part": "Chest",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 102,
+    "exercise_name": "Barbell Squat",
+    "body_part": "Legs",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 103,
+    "exercise_name": "Deadlift",
+    "body_part": "Back",
+    "equipment": "Barbell",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 104,
+    "exercise_name": "Overhead Press",
+    "body_part": "Shoulders",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 105,
+    "exercise_name": "Pull Up",
+    "body_part": "Back",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 106,
+    "exercise_name": "Dumbbell Bench Press",
+    "body_part": "Chest",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 107,
+    "exercise_name": "Goblet Squat",
+    "body_part": "Legs",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 108,
+    "exercise_name": "Dumbbell Row",
+    "body_part": "Back",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 109,
+    "exercise_name": "Push Up",
+    "body_part": "Chest",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 110,
+    "exercise_name": "Plank",
+    "body_part": "Core",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 111,
+    "exercise_name": "Lunges",
+    "body_part": "Legs",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 112,
+    "exercise_name": "Pistol Squat",
+    "body_part": "Legs",
+    "equipment": "Bodyweight",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 113,
+    "exercise_name": "Bicep Curl",
+    "body_part": "Arms",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 114,
+    "exercise_name": "Tricep Extension",
+    "body_part": "Arms",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 115,
+    "exercise_name": "Lateral Raise",
+    "body_part": "Shoulders",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 116,
+    "exercise_name": "Leg Press",
+    "body_part": "Legs",
+    "equipment": "Machine",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 117,
+    "exercise_name": "Lat Pulldown",
+    "body_part": "Back",
+    "equipment": "Machine",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 118,
+    "exercise_name": "Leg Curl",
+    "body_part": "Legs",
+    "equipment": "Machine",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 119,
+    "exercise_name": "Leg Extension",
+    "body_part": "Legs",
+    "equipment": "Machine",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 120,
+    "exercise_name": "Cable Fly",
+    "body_part": "Chest",
+    "equipment": "Cable",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 121,
+    "exercise_name": "Face Pull",
+    "body_part": "Shoulders",
+    "equipment": "Cable",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 122,
+    "exercise_name": "Dips",
+    "body_part": "Chest",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 123,
+    "exercise_name": "Hanging Leg Raise",
+    "body_part": "Core",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 124,
+    "exercise_name": "Kettlebell Swing",
+    "body_part": "Legs",
+    "equipment": "Kettlebell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 125,
+    "exercise_name": "Chin Up",
+    "body_part": "Back",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 126,
+    "exercise_name": "Incline Dumbbell Press",
+    "body_part": "Chest",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 127,
+    "exercise_name": "Bulgarian Split Squat",
+    "body_part": "Legs",
+    "equipment": "Dumbbell",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 128,
+    "exercise_name": "Romanian Deadlift",
+    "body_part": "Legs",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 129,
+    "exercise_name": "Seated Cable Row",
+    "body_part": "Back",
+    "equipment": "Cable",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 130,
+    "exercise_name": "Skullcrushers",
+    "body_part": "Arms",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 131,
+    "exercise_name": "Hammer Curl",
+    "body_part": "Arms",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 132,
+    "exercise_name": "Calf Raise",
+    "body_part": "Legs",
+    "equipment": "Machine",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 133,
+    "exercise_name": "Ab Wheel Rollout",
+    "body_part": "Core",
+    "equipment": "Other",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 134,
+    "exercise_name": "Air Squat",
+    "body_part": "Legs",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 135,
+    "exercise_name": "Glute Bridge",
+    "body_part": "Legs",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 136,
+    "exercise_name": "Bird Dog",
+    "body_part": "Core",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 137,
+    "exercise_name": "Inverted Row",
+    "body_part": "Back",
+    "equipment": "Barbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 138,
+    "exercise_name": "Wall Sit",
+    "body_part": "Legs",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 139,
+    "exercise_name": "Mountain Climbers",
+    "body_part": "Core",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 140,
+    "exercise_name": "Burpee",
+    "body_part": "Full Body",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 141,
+    "exercise_name": "Good Morning",
+    "body_part": "Back",
+    "equipment": "Barbell",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 142,
+    "exercise_name": "Front Squat",
+    "body_part": "Legs",
+    "equipment": "Barbell",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 143,
+    "exercise_name": "Hip Thrust",
+    "body_part": "Legs",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 144,
+    "exercise_name": "Arnold Press",
+    "body_part": "Shoulders",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 145,
+    "exercise_name": "Concentration Curl",
+    "body_part": "Arms",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 146,
+    "exercise_name": "Diamond Push Up",
+    "body_part": "Arms",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 147,
+    "exercise_name": "Box Jump",
+    "body_part": "Legs",
+    "equipment": "Other",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 148,
+    "exercise_name": "T-Bar Row",
+    "body_part": "Back",
+    "equipment": "Machine",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 149,
+    "exercise_name": "Pec Deck",
+    "body_part": "Chest",
+    "equipment": "Machine",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 150,
+    "exercise_name": "Rope Tricep Pushdown",
+    "body_part": "Arms",
+    "equipment": "Cable",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 151,
+    "exercise_name": "Cable Bicep Curl",
+    "body_part": "Arms",
+    "equipment": "Cable",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 152,
+    "exercise_name": "Russian Twist",
+    "body_part": "Core",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 153,
+    "exercise_name": "Side Plank",
+    "body_part": "Core",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 154,
+    "exercise_name": "Decline Bench Press",
+    "body_part": "Chest",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 155,
+    "exercise_name": "Sumo Deadlift",
+    "body_part": "Legs",
+    "equipment": "Barbell",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 156,
+    "exercise_name": "Farmer's Walk",
+    "body_part": "Full Body",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 157,
+    "exercise_name": "Reverse Fly",
+    "body_part": "Shoulders",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 158,
+    "exercise_name": "Preacher Curl",
+    "body_part": "Arms",
+    "equipment": "Machine",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 159,
+    "exercise_name": "Cable Crossover",
+    "body_part": "Chest",
+    "equipment": "Cable",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 160,
+    "exercise_name": "Box Squat",
+    "body_part": "Legs",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 161,
+    "exercise_name": "Z-Press",
+    "body_part": "Shoulders",
+    "equipment": "Barbell",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 162,
+    "exercise_name": "Crunches",
+    "body_part": "Core",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 163,
+    "exercise_name": "Battle Ropes",
+    "body_part": "Full Body",
+    "equipment": "Other",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 164,
+    "exercise_name": "Sled Push",
+    "body_part": "Full Body",
+    "equipment": "Other",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 165,
+    "exercise_name": "Clean and Jerk",
+    "body_part": "Full Body",
+    "equipment": "Barbell",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 166,
+    "exercise_name": "Snatch",
+    "body_part": "Full Body",
+    "equipment": "Barbell",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 167,
+    "exercise_name": "Turkish Get-Up",
+    "body_part": "Full Body",
+    "equipment": "Kettlebell",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 168,
+    "exercise_name": "Single-Leg Deadlift",
+    "body_part": "Legs",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 169,
+    "exercise_name": "Pallof Press",
+    "body_part": "Core",
+    "equipment": "Cable",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 170,
+    "exercise_name": "Barbell Row",
+    "body_part": "Back",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 171,
+    "exercise_name": "Incline Barbell Press",
+    "body_part": "Chest",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 172,
+    "exercise_name": "Dumbbell Shrugs",
+    "body_part": "Shoulders",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 173,
+    "exercise_name": "Barbell Shrugs",
+    "body_part": "Shoulders",
+    "equipment": "Barbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 174,
+    "exercise_name": "Machine Chest Press",
+    "body_part": "Chest",
+    "equipment": "Machine",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 175,
+    "exercise_name": "Machine Shoulder Press",
+    "body_part": "Shoulders",
+    "equipment": "Machine",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 176,
+    "exercise_name": "Hack Squat",
+    "body_part": "Legs",
+    "equipment": "Machine",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 177,
+    "exercise_name": "Lying Leg Raise",
+    "body_part": "Core",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 178,
+    "exercise_name": "Flutter Kicks",
+    "body_part": "Core",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 179,
+    "exercise_name": "Walking Lunge",
+    "body_part": "Legs",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 180,
+    "exercise_name": "Dumbbell Fly",
+    "body_part": "Chest",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 181,
+    "exercise_name": "Dumbbell Front Raise",
+    "body_part": "Shoulders",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 182,
+    "exercise_name": "Barbell Curl",
+    "body_part": "Arms",
+    "equipment": "Barbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 183,
+    "exercise_name": "Close Grip Bench Press",
+    "body_part": "Arms",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 184,
+    "exercise_name": "Step-Up",
+    "body_part": "Legs",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 185,
+    "exercise_name": "Jump Squat",
+    "body_part": "Legs",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 186,
+    "exercise_name": "Superman",
+    "body_part": "Back",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 187,
+    "exercise_name": "Wood Chop",
+    "body_part": "Core",
+    "equipment": "Cable",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 188,
+    "exercise_name": "Dumbbell Pullover",
+    "body_part": "Chest",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 189,
+    "exercise_name": "Reverse Pec Deck",
+    "body_part": "Shoulders",
+    "equipment": "Machine",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 190,
+    "exercise_name": "Spider Curl",
+    "body_part": "Arms",
+    "equipment": "Dumbbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 191,
+    "exercise_name": "Machine Tricep Dip",
+    "body_part": "Arms",
+    "equipment": "Machine",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 192,
+    "exercise_name": "Kneeling Cable Crunch",
+    "body_part": "Core",
+    "equipment": "Cable",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 193,
+    "exercise_name": "Seated Calf Raise",
+    "body_part": "Legs",
+    "equipment": "Machine",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 194,
+    "exercise_name": "Standing Calf Raise",
+    "body_part": "Legs",
+    "equipment": "Machine",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 195,
+    "exercise_name": "Landmine Press",
+    "body_part": "Shoulders",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 196,
+    "exercise_name": "Handstand Push Up",
+    "body_part": "Shoulders",
+    "equipment": "Bodyweight",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 197,
+    "exercise_name": "Muscle Up",
+    "body_part": "Full Body",
+    "equipment": "Bodyweight",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 198,
+    "exercise_name": "One-Arm Dumbbell Row",
+    "body_part": "Back",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 199,
+    "exercise_name": "Kettlebell Goblet Squat",
+    "body_part": "Legs",
+    "equipment": "Kettlebell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 200,
+    "exercise_name": "Kettlebell Halo",
+    "body_part": "Shoulders",
+    "equipment": "Kettlebell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 201,
+    "exercise_name": "Side Bend",
+    "body_part": "Core",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 202,
+    "exercise_name": "Windshield Wipers",
+    "body_part": "Core",
+    "equipment": "Bodyweight",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 203,
+    "exercise_name": "Toes to Bar",
+    "body_part": "Core",
+    "equipment": "Bodyweight",
+    "difficulty": "Advanced"
+  },
+  {
+    "exercise_id": 204,
+    "exercise_name": "Yates Row",
+    "body_part": "Back",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 205,
+    "exercise_name": "Pendlay Row",
+    "body_part": "Back",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 206,
+    "exercise_name": "Dumbbell Floor Press",
+    "body_part": "Chest",
+    "equipment": "Dumbbell",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 207,
+    "exercise_name": "V-Up",
+    "body_part": "Core",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 208,
+    "exercise_name": "Bradford Press",
+    "body_part": "Shoulders",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_id": 209,
+    "exercise_name": "Cable Lateral Raise",
+    "body_part": "Shoulders",
+    "equipment": "Cable",
+    "difficulty": "Beginner"
+  },
+  {
+    "exercise_id": 210,
+    "exercise_name": "Cable Reverse Fly",
+    "body_part": "Shoulders",
+    "equipment": "Cable",
+    "difficulty": "Beginner"
+  }
+] 

@@ -1,0 +1,94 @@
+# Dependencies
+node_modules/
+venv/
+env/
+.venv/
+
+# Build output
+dist/
+build/
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Misc
+*.local
+.cache/
+.temp/
+
+# Data exports/backups
+*.sqlite
+*.bak
+*.tmp
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Machine Learning Models
+ml_models/
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Database files
+*.db
+*.sqlite3
+
+# Production files
+.env.production
+.env.staging
+
+# API Keys and Secrets
+*secret*
+*key*
+*password*
+*token*
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Coverage reports
+coverage/
+.coverage
+htmlcov/
+
+# Test files
+.pytest_cache/
+.tox/
