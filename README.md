@@ -23,7 +23,7 @@ A comprehensive fitness tracking and AI recommendation platform built with React
 - **Responsive Design**: Modern, mobile-friendly interface
 - **Secure Authentication**: Supabase-powered user authentication
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 18** with Vite for fast development
@@ -48,7 +48,7 @@ A comprehensive fitness tracking and AI recommendation platform built with React
 - **K-means Clustering** for user segmentation
 - **Multi-factor Recommendation System**
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Node.js (v16 or higher)
 - Python (v3.8 or higher)
@@ -59,7 +59,7 @@ A comprehensive fitness tracking and AI recommendation platform built with React
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/BhaveshThapar/HerculesAI
 cd HerculesAI
 ```
 
