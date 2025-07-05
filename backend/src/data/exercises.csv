@@ -1,0 +1,111 @@
+exercise_id,exercise_name,body_part,equipment,difficulty
+101,Barbell Bench Press,Chest,Barbell,Intermediate
+102,Barbell Squat,Legs,Barbell,Intermediate
+103,Deadlift,Back,Barbell,Advanced
+104,Overhead Press,Shoulders,Barbell,Intermediate
+105,Pull Up,Back,Bodyweight,Intermediate
+106,Dumbbell Bench Press,Chest,Dumbbell,Beginner
+107,Goblet Squat,Legs,Dumbbell,Beginner
+108,Dumbbell Row,Back,Dumbbell,Beginner
+109,Push Up,Chest,Bodyweight,Beginner
+110,Plank,Core,Bodyweight,Beginner
+111,Lunges,Legs,Dumbbell,Beginner
+112,Pistol Squat,Legs,Bodyweight,Advanced
+113,Bicep Curl,Arms,Dumbbell,Beginner
+114,Tricep Extension,Arms,Dumbbell,Beginner
+115,Lateral Raise,Shoulders,Dumbbell,Beginner
+116,Leg Press,Legs,Machine,Beginner
+117,Lat Pulldown,Back,Machine,Beginner
+118,Leg Curl,Legs,Machine,Beginner
+119,Leg Extension,Legs,Machine,Beginner
+120,Cable Fly,Chest,Cable,Intermediate
+121,Face Pull,Shoulders,Cable,Beginner
+122,Dips,Chest,Bodyweight,Intermediate
+123,Hanging Leg Raise,Core,Bodyweight,Intermediate
+124,Kettlebell Swing,Legs,Kettlebell,Intermediate
+125,Chin Up,Back,Bodyweight,Intermediate
+126,Incline Dumbbell Press,Chest,Dumbbell,Intermediate
+127,Bulgarian Split Squat,Legs,Dumbbell,Advanced
+128,Romanian Deadlift,Legs,Barbell,Intermediate
+129,Seated Cable Row,Back,Cable,Beginner
+130,Skullcrushers,Arms,Barbell,Intermediate
+131,Hammer Curl,Arms,Dumbbell,Beginner
+132,Calf Raise,Legs,Machine,Beginner
+133,Ab Wheel Rollout,Core,Other,Intermediate
+134,Air Squat,Legs,Bodyweight,Beginner
+135,Glute Bridge,Legs,Bodyweight,Beginner
+136,Bird Dog,Core,Bodyweight,Beginner
+137,Inverted Row,Back,Barbell,Beginner
+138,Wall Sit,Legs,Bodyweight,Beginner
+139,Mountain Climbers,Core,Bodyweight,Beginner
+140,Burpee,Full Body,Bodyweight,Intermediate
+141,Good Morning,Back,Barbell,Advanced
+142,Front Squat,Legs,Barbell,Advanced
+143,Hip Thrust,Legs,Barbell,Intermediate
+144,Arnold Press,Shoulders,Dumbbell,Intermediate
+145,Concentration Curl,Arms,Dumbbell,Beginner
+146,Diamond Push Up,Arms,Bodyweight,Intermediate
+147,Box Jump,Legs,Other,Intermediate
+148,T-Bar Row,Back,Machine,Intermediate
+149,Pec Deck,Chest,Machine,Beginner
+150,Rope Tricep Pushdown,Arms,Cable,Beginner
+151,Cable Bicep Curl,Arms,Cable,Beginner
+152,Russian Twist,Core,Bodyweight,Beginner
+153,Side Plank,Core,Bodyweight,Beginner
+154,Decline Bench Press,Chest,Barbell,Intermediate
+155,Sumo Deadlift,Legs,Barbell,Advanced
+156,Farmer's Walk,Full Body,Dumbbell,Beginner
+157,Reverse Fly,Shoulders,Dumbbell,Beginner
+158,Preacher Curl,Arms,Machine,Beginner
+159,Cable Crossover,Chest,Cable,Intermediate
+160,Box Squat,Legs,Barbell,Intermediate
+161,Z-Press,Shoulders,Barbell,Advanced
+162,Crunches,Core,Bodyweight,Beginner
+163,Battle Ropes,Full Body,Other,Intermediate
+164,Sled Push,Full Body,Other,Intermediate
+165,Clean and Jerk,Full Body,Barbell,Advanced
+166,Snatch,Full Body,Barbell,Advanced
+167,Turkish Get-Up,Full Body,Kettlebell,Advanced
+168,Single-Leg Deadlift,Legs,Dumbbell,Intermediate
+169,Pallof Press,Core,Cable,Intermediate
+170,Barbell Row,Back,Barbell,Intermediate
+171,Incline Barbell Press,Chest,Barbell,Intermediate
+172,Dumbbell Shrugs,Shoulders,Dumbbell,Beginner
+173,Barbell Shrugs,Shoulders,Barbell,Beginner
+174,Machine Chest Press,Chest,Machine,Beginner
+175,Machine Shoulder Press,Shoulders,Machine,Beginner
+176,Hack Squat,Legs,Machine,Intermediate
+177,Lying Leg Raise,Core,Bodyweight,Beginner
+178,Flutter Kicks,Core,Bodyweight,Beginner
+179,Walking Lunge,Legs,Dumbbell,Beginner
+180,Dumbbell Fly,Chest,Dumbbell,Beginner
+181,Dumbbell Front Raise,Shoulders,Dumbbell,Beginner
+182,Barbell Curl,Arms,Barbell,Beginner
+183,Close Grip Bench Press,Arms,Barbell,Intermediate
+184,Step-Up,Legs,Dumbbell,Beginner
+185,Jump Squat,Legs,Bodyweight,Intermediate
+186,Superman,Back,Bodyweight,Beginner
+187,Wood Chop,Core,Cable,Intermediate
+188,Dumbbell Pullover,Chest,Dumbbell,Intermediate
+189,Reverse Pec Deck,Shoulders,Machine,Beginner
+190,Spider Curl,Arms,Dumbbell,Intermediate
+191,Machine Tricep Dip,Arms,Machine,Beginner
+192,Kneeling Cable Crunch,Core,Cable,Intermediate
+193,Seated Calf Raise,Legs,Machine,Beginner
+194,Standing Calf Raise,Legs,Machine,Beginner
+195,Landmine Press,Shoulders,Barbell,Intermediate
+196,Handstand Push Up,Shoulders,Bodyweight,Advanced
+197,Muscle Up,Full Body,Bodyweight,Advanced
+198,One-Arm Dumbbell Row,Back,Dumbbell,Beginner
+199,Kettlebell Goblet Squat,Legs,Kettlebell,Beginner
+200,Kettlebell Halo,Shoulders,Kettlebell,Beginner
+201,Side Bend,Core,Dumbbell,Beginner
+202,Windshield Wipers,Core,Bodyweight,Advanced
+203,Toes to Bar,Core,Bodyweight,Advanced
+204,Yates Row,Back,Barbell,Intermediate
+205,Pendlay Row,Back,Barbell,Intermediate
+206,Dumbbell Floor Press,Chest,Dumbbell,Beginner
+207,V-Up,Core,Bodyweight,Intermediate
+208,Bradford Press,Shoulders,Barbell,Intermediate
+209,Cable Lateral Raise,Shoulders,Cable,Beginner
+210,Cable Reverse Fly,Shoulders,Cable,Beginner

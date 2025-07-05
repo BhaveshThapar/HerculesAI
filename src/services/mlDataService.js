@@ -1,5 +1,66 @@
 import { supabase } from '../supabaseClient';
 
+const API_BASE = import.meta.env.VITE_FLASK_API_URL || 'http://localhost:5001/api';
+
+export async function getMealRecommendations(userProfile, mealType, nRecommendations = 5) {
+  const response = await fetch(`${API_BASE}/ml/recommend-meals`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ 
+      user_profile: userProfile,
+      meal_type: mealType,
+      n_recommendations: nRecommendations
+    })
+  });
+  return response.json();
+}
+
+export async function getExerciseRecommendations(userProfile, bodyPart, nRecommendations = 8) {
+  const response = await fetch(`${API_BASE}/ml/recommend-exercises`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ 
+      user_profile: userProfile,
+      body_part: bodyPart,
+      n_recommendations: nRecommendations
+    })
+  });
+  return response.json();
+}
+
+export async function generateWorkoutPlan(userProfile) {
+  const response = await fetch(`${API_BASE}/ml/generate-workout`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ user_profile: userProfile })
+  });
+  return response.json();
+}
+
+export async function findSimilarUsers(userProfile, nRecommendations = 5) {
+  const response = await fetch(`${API_BASE}/ml/similar-users`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ 
+      user_profile: userProfile,
+      n_recommendations: nRecommendations
+    })
+  });
+  return response.json();
+}
+
+export async function getProgressRecommendations(userProfile, progressData) {
+  const response = await fetch(`${API_BASE}/ml/progress-recommendations`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ 
+      user_profile: userProfile,
+      progress_data: progressData
+    })
+  });
+  return response.json();
+}
+
 class MLDataService {
   async logRecommendation(userId, recommendationType, recommendationData, userFeedback = null) {
     try {
