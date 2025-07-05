@@ -14,10 +14,8 @@ services:
     healthCheckPath: /api/health
 
   # Frontend Service
-  - type: web
+  - type: static
     name: herculesai-frontend
-    env: static
-    plan: starter
     buildCommand: npm install && npm run build
     staticPublishPath: ./dist
     envVars:
